@@ -26,7 +26,7 @@ RNAsmol was trained on
 
 ### RNAsmol environment
 
-Download the repository and create the evironment for RNAsmol.
+Download the repository and create the evironment for RNAsmol. It may take around 2 hours for setting all required packages.
 
 Key requirements: rdkit, torch-geometric
 
@@ -40,8 +40,8 @@ conda env create -n rnasmol -f RNAsmol.yml
 
 ## Usage
 
-You should have at least an NVIDIA GPU and a driver on your system to
-run the training or inference.
+You should have at least an NVIDIA GPU and a driver on your system to run the training or inference.
+In general, it will take 1-2 hours for the data preprocessing and model training
 
 ### 1.Activate the created conda environment
 
