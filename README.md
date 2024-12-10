@@ -65,7 +65,7 @@ python src/train.py --dataset pdb/rnaperturbation  --lr 5e-5 --batch_size 1024 -
 python src/test.py --dataset pdb/rnaperturbation  --model_path 'save/*.pt'
 ```
 ## More
-More help for reproduce, please refer: [https://github.com/hongli-ma/RNAsmol] (https://github.com/hongli-ma/RNAsmol)
+More help for reproduce, please refer: https://github.com/hongli-ma/RNAsmol
 
 ## License and Disclaimer
 
